@@ -1,0 +1,35 @@
+# Xcode
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+build/
+DerivedData/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+/*.gnco
+**/xcshareddata/WorkspaceSettings.xcsettings
+
+# Swift
+*.hmap
+timeline.xctimeline
+playground.xcworkspace
+.build/
+
+# App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
