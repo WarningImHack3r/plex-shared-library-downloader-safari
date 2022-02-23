@@ -189,16 +189,16 @@
 		7126280027C641BE00A59DE7 /* img */ = {
 			isa = PBXGroup;
 			children = (
-				7126280127C641BE00A59DE7 /* logo16.png */,
-				7126280227C641BE00A59DE7 /* logo38.png */,
-				7126280327C641BE00A59DE7 /* logo512.png */,
 				7126280427C641BE00A59DE7 /* logo8.png */,
-				7126280527C641BE00A59DE7 /* logo128.png */,
-				7126280627C641BE00A59DE7 /* logo64.png */,
-				7126280727C641BE00A59DE7 /* logo256.png */,
+				7126280127C641BE00A59DE7 /* logo16.png */,
 				7126280827C641BE00A59DE7 /* logo19.png */,
 				7126280927C641BE00A59DE7 /* logo24.png */,
 				7126280A27C641BE00A59DE7 /* logo32.png */,
+				7126280227C641BE00A59DE7 /* logo38.png */,
+				7126280627C641BE00A59DE7 /* logo64.png */,
+				7126280527C641BE00A59DE7 /* logo128.png */,
+				7126280727C641BE00A59DE7 /* logo256.png */,
+				7126280327C641BE00A59DE7 /* logo512.png */,
 			);
 			path = img;
 			sourceTree = "<group>";
