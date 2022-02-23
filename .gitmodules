@@ -1,0 +1,3 @@
+[submodule "Shared (Extension)/chrome"]
+	path = Shared (Extension)/chrome
+	url = https://github.com/WarningImHack3r/plex-shared-library-downloader
