@@ -12,7 +12,7 @@ _AND_
 
 ### Installation
 
-- Clone this project
+- Clone this project and its submodules (`git clone --recurse-submodules <this-repo-url>`)
 - Open it in Xcode
 - Select scheme `Shared Library Downloader for Plex (macOS) > My Mac`
 - Run it
